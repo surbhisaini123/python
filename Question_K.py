@@ -1,0 +1,7 @@
+A,B,C=input().split()
+A=int(A)
+B=int(B)
+C=int(C)
+maximum=min(A,B,C)
+minimum=max(A,B,C)
+print(maximum ,minimum)
