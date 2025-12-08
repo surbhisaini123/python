@@ -1,3 +1,4 @@
+# W. Mathematical Expression
 A,S,B,Q,C=input().split()
 A=int(A)
 B=int(B)
