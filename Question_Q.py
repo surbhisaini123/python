@@ -1,7 +1,7 @@
-# Q. Coordinates of a Point
+# Q. Coordinates of a Point/
 X,Y=input().split()
-X=int(X)
-Y=int(Y)
+X=float(X)
+Y=float(Y)
 if X==0 and Y==0:
     print("Origem")
 elif X==0:
